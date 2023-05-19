@@ -1,7 +1,4 @@
         if(a>c)
         {
             document.write(" greater is="+a);
-        }else{
-            document.write("greater is="+c);
-
         }
