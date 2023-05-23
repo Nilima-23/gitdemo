@@ -12,3 +12,4 @@ adding new file again.
 add file
 adding line after staged.
 pusshing first text.
+pushing first time to github.
