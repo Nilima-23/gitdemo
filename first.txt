@@ -13,3 +13,4 @@ add file
 adding line after staged.
 pusshing first text.
 pushing first time to github.
+trying to check different version of the same file
