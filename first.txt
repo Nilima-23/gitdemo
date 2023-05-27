@@ -18,6 +18,6 @@ adding one more line to check.
 checking single line push to github
 changes done by b.
 adding first line of code--adding this line from local.
-adding new features.
+adding new features-from local.
 adding condition 1.
 adding condition 2.
